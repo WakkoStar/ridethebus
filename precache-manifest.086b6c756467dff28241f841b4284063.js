@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "581388d24f7ed868b1afe434937d1a34",
+    "revision": "14af4986c493887084ad681e6b8127fd",
     "url": "/ridethebus/index.html"
   },
   {
-    "revision": "e8c30c6b646dd8344bbd",
-    "url": "/ridethebus/static/css/main.dcedfd8b.chunk.css"
+    "revision": "7a9c174716a7987ded47",
+    "url": "/ridethebus/static/css/main.92229810.chunk.css"
   },
   {
     "revision": "dc717a5ff453e37dc455",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ridethebus/static/js/2.14189809.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e8c30c6b646dd8344bbd",
+    "revision": "7a9c174716a7987ded47",
     "url": "/ridethebus/static/js/main.1d527ceb.chunk.js"
   },
   {

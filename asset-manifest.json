@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ridethebus/static/css/main.dcedfd8b.chunk.css",
+    "main.css": "/ridethebus/static/css/main.92229810.chunk.css",
     "main.js": "/ridethebus/static/js/main.1d527ceb.chunk.js",
     "main.js.map": "/ridethebus/static/js/main.1d527ceb.chunk.js.map",
     "runtime-main.js": "/ridethebus/static/js/runtime-main.94f7ed2a.js",
@@ -8,15 +8,15 @@
     "static/js/2.14189809.chunk.js": "/ridethebus/static/js/2.14189809.chunk.js",
     "static/js/2.14189809.chunk.js.map": "/ridethebus/static/js/2.14189809.chunk.js.map",
     "index.html": "/ridethebus/index.html",
-    "precache-manifest.a8d6c8f7d2994e1d3585f2b087d64a38.js": "/ridethebus/precache-manifest.a8d6c8f7d2994e1d3585f2b087d64a38.js",
+    "precache-manifest.086b6c756467dff28241f841b4284063.js": "/ridethebus/precache-manifest.086b6c756467dff28241f841b4284063.js",
     "service-worker.js": "/ridethebus/service-worker.js",
-    "static/css/main.dcedfd8b.chunk.css.map": "/ridethebus/static/css/main.dcedfd8b.chunk.css.map",
+    "static/css/main.92229810.chunk.css.map": "/ridethebus/static/css/main.92229810.chunk.css.map",
     "static/js/2.14189809.chunk.js.LICENSE.txt": "/ridethebus/static/js/2.14189809.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.94f7ed2a.js",
     "static/js/2.14189809.chunk.js",
-    "static/css/main.dcedfd8b.chunk.css",
+    "static/css/main.92229810.chunk.css",
     "static/js/main.1d527ceb.chunk.js"
   ]
 }
